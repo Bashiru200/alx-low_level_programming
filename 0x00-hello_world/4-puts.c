@@ -1,6 +1,7 @@
 #include <stdio.h>
-/*
- *The puts funtion in action
+/**
+ * main - below is the main function.
+ * return: return always 0
  */
 int main(void)
 {
