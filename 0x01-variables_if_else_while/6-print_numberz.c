@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - data entry point
+ *
  * Return : return value 0
  */
 int main(void)
