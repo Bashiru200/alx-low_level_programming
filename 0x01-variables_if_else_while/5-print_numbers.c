@@ -6,12 +6,13 @@
  */
 int main(void)
 {
-	int sdigit = 0;
+	int sdigit = 48;
 
-	if (sdigit <= 9; ++sdigit)
+	while (sdigit <= 57)
 	{
-		printf("%d", sdigit);
-		printf("\n");
+		putchar(sdigit);
+		sdigit++;
 	}
+	putchar('\n');
 	return (0);
 }
